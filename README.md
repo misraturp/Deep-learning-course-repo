@@ -5,6 +5,4 @@ You can use this repo to follow along during the coding exercises and to complet
 
 The code is organized in modules.
 
-Don't forget to ask any of your questions if you get stuck anywhere. You can reach me at misra@soyouwanttobeadatascientist.com
-
 Enjoy!
